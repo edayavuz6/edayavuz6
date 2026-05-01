@@ -12,8 +12,11 @@
 ---
 About me 🎉
 🔹🌱 I'm currently learning JavaScript and React
+
 🔹🔭 I'm currently working on WealthWise: Personal Finance Intelligence
+
 🔹📫 How to reach me: edayavuzcontact@gmail.com or https://www.linkedin.com/in/eda-yavuz-646011377/
+
 ---
 
 ### 🛠 My Tech Stack
