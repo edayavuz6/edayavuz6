@@ -16,7 +16,11 @@ About me 🎉
 
 🔹🔭 I'm currently working on WealthWise: Personal Finance Intelligence
 
-🔹📫 How to reach me: edayavuzcontact@gmail.com or https://www.linkedin.com/in/eda-yavuz-646011377/
+🔹📫 How to reach me: 
+
+📧 **Email:** [edayavuzcontact@gmail.com](mailto:edayavuzcontact@gmail.com)
+
+💼 **LinkedIn:** [Eda Yavuz](https://www.linkedin.com/in/eda-yavuz-646011377/)
 
 ---
 
