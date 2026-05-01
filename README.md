@@ -11,6 +11,7 @@
 
 ---
 About me 🎉
+
 🔹🌱 I'm currently learning JavaScript and React
 
 🔹🔭 I'm currently working on WealthWise: Personal Finance Intelligence
